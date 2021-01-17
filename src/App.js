@@ -31,7 +31,7 @@ function App() {
     <div className="App">
       <div className="container">
         <div className="columns is-multiline is-text-left">
-          <div className="column is-full has-text-danger-dark is-size-3">Profile Page</div>
+          <div className="column is-full has-text-danger-dark is-size-3">Profile Pages</div>
           <br />
           <div id="profile-pic-user" className="column is-full">
             <figure class="image is-128x128">
